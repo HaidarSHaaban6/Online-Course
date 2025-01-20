@@ -6,6 +6,7 @@ import img4 from "/assets/img/marque/Card4.png" ;
 import img5 from "/assets/img/marque/Card5.png" ;
 import img6 from "/assets/img/marque/Card6.png" ;
 import img7 from "/assets/img/marque/Card7.png" ;
+
 interface MarqueeCard{
     id:number,
     card:string,
